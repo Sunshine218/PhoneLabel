@@ -1,0 +1,6 @@
+framework module PhoneLabel {
+  umbrella header "PhoneLabel.h"
+
+  export *
+  module * { export * }
+}
