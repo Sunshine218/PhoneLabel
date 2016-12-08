@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "PhoneLabel"
-  s.version          = "1.1.0"
+  s.version          = "1.2.0"
   s.summary          = "自动识别电话号码，点击号码可以拨打"
   s.description      = <<-DESC
                        iOS自动识别电话号码，点击号码可以拨打, 使用 Objective-C.
