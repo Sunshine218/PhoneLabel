@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/luoxuemei/PhoneLabel"
   # s.screenshots      = ""
   s.license          = 'MIT'
-  s.author           = { "" => "" }
+  s.author           = { "aaa" => "" }
   s.source           = { :git => "https://github.com/luoxuemei/PhoneLabel.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '6.0'
